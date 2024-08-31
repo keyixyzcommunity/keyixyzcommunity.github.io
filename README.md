@@ -16,7 +16,7 @@ Fulfilling dreams requires honesty. We like granting wishes, and we support each
 
 A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. What do you stand for? If you have trouble answering, it's time to come stand with us. :) Welcome to KEYI 🉑
 
-We never do any paid marketing, no shilling, no jank - our community is 100% organic. Integrity is everything!
+We don't do paid marketing, nor shilling, nor any manipulative jank - our community is 100% organic. Integrity is everything!
 
 We work on things together as a community - including this site you're reading now.
 
