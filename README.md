@@ -12,9 +12,11 @@
 
 ![photo_2024-08-31_03-33-28](https://github.com/user-attachments/assets/348e4b4b-204b-4006-9094-446af55bfee0)
 
+### Welcome to KEYI 🉑
+
 Fulfilling dreams requires honesty. We like granting wishes, and we support each other. 
 
-A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. What do you stand for? If you have trouble answering, it's time to come stand with us. :) Welcome to KEYI 🉑
+A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. What do you stand for? If you have trouble answering, it's time to come stand with us. :) 
 
 We don't do paid marketing, nor shilling, nor any manipulative jank - our community is 100% organic. Integrity is everything!
 
