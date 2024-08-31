@@ -1,10 +1,6 @@
 ![banner-keyi](https://github.com/user-attachments/assets/334b45cf-0499-4490-9639-5e17de2ff4f7)
 
-Main group chat on Telegram [t.me/keyixyz](t.me/keyixyz)
-
-Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)
-
-Contract Address for $KEYI token 9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)
+Main group chat on Telegram [t.me/keyixyz](t.me/keyixyz)   🉑   Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)   🉑   Contract Address for $KEYI token 9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)
 
 # KEYI 🉑 Constructive Community
 
