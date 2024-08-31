@@ -10,7 +10,7 @@
 
 ## Join us and we can work towards our dreams together! 
 
-Fulfilling dreams requires honesty about your dreams, and working towards them. We like granting wishes, and we support each other. 
+Fulfilling dreams requires honesty. We like granting wishes, and we support each other. 
 
 A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. What do you stand for? If you have trouble answering, it's time to come stand with us. :) Welcome to KEYI 🉑
 
