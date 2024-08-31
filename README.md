@@ -25,8 +25,9 @@ We work on things together as a community - including this site you're reading n
 We have a lot of projects in progress, here is a small selection:
 
 - Our Solana NFT Keyi Beginnings [https://truffle.wtf/project/keyi-beginnings](https://truffle.wtf/project/keyi-beginnings)
-- Our workout check-in social hub [exercise.cafe](https://exercise.cafe/public/local)
 - Our weekly Cake Keyi Call (hosted on our [Twitter account @keyixyz](https://x.com/keyixyz) for now)
+- Our workout check-in social hub [exercise.cafe](https://exercise.cafe/public/local) (Notice how quiet it is? No distractions, just new personal bests for you!)
+
 
 Don't be shy! Join the group chat and tell us what dreams you're working on lately :)
 
