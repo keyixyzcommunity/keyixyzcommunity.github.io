@@ -4,7 +4,7 @@
 
 🉑   Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)   🉑
 
-🉑   Contract Address for $KEYI token 9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)   🉑
+🉑   Contract Address for $KEYI token on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)   🉑   9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump   🉑
 
 
 # KEYI 🉑 Constructive Community
