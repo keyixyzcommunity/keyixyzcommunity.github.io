@@ -12,7 +12,7 @@
 
 ![photo_2024-08-31_03-33-28](https://github.com/user-attachments/assets/348e4b4b-204b-4006-9094-446af55bfee0)
 
-### Welcome to KEYI 🉑
+### 🉑 Welcome to KEYI 🉑
 
 Fulfilling dreams requires honesty. We like granting wishes, and we support each other. 
 
