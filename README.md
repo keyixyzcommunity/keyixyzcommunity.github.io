@@ -28,3 +28,7 @@ Don't be shy! Join the group chat and tell us what dreams you're working on late
 
 
 ![photo_2024-08-31_03-21-24](https://github.com/user-attachments/assets/dfb1624d-beb5-4eff-922d-089455a02bcb)
+
+
+
+![photo_2024-08-31_03-22-56](https://github.com/user-attachments/assets/7281cc69-9142-4fb6-b47b-1582d5c5971a)
