@@ -14,6 +14,10 @@ We never do any paid marketing - our community is 100% organic. Integrity is eve
 
 We work on things together as a community - including this site you're reading now.
 
+
+![keyibeginnings](https://github.com/user-attachments/assets/082b12eb-86e4-4ed8-869c-7ada283bee58)
+
+
 We have a lot of projects in progress, here is a small selection:
 
 - Our Solana NFT Keyi Beginnings [https://truffle.wtf/project/keyi-beginnings](https://truffle.wtf/project/keyi-beginnings)
@@ -21,10 +25,6 @@ We have a lot of projects in progress, here is a small selection:
 - Our weekly Cake Keyi Call (hosted on our [Twitter account @keyixyz](https://x.com/keyixyz) for now)
 
 Don't be shy! Join the group chat and tell us what dreams you're working on lately :)
-
-
-![keyibeginnings](https://github.com/user-attachments/assets/082b12eb-86e4-4ed8-869c-7ada283bee58)
-
 
 
 ![photo_2024-08-31_03-21-24](https://github.com/user-attachments/assets/dfb1624d-beb5-4eff-922d-089455a02bcb)
