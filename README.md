@@ -1,28 +1,27 @@
-# keyixyzcommunity.github.io
-Public static site landing page for keyi.xyz, and the machinery for CICD 'github actions' for publishing to 'github pages'
-
-
-Basic elements plan for now:
 Banner, ![banner-keyi](https://github.com/user-attachments/assets/334b45cf-0499-4490-9639-5e17de2ff4f7)
 
-question about dreams,   https://docs.google.com/forms/d/1cr90dbCzyFPol5qdpdNulhfOh9dnSI2WWKYVPj0hDj0
+Main group chat on Telegram [t.me/keyixyz](t.me/keyixyz)
 
-coin CA, 9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump
+Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)
 
-links to social. t.me/keyixyz and https://x.com/keyixyz
+Contract Address for $KEYI token 9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)
 
+# KEYI 🉑 Constructive Community
 
+### Join us and we can work towards our dreams together! 
 
+Fulfilling dreams requires honesty about your dreams, and working towards them. We like granting wishes, and we support each other. 
 
+A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. What do you stand for? If you have trouble answering, it's time to come stand with us. :) Welcome to KEYI 🉑
 
+We never do any paid marketing - our community is 100% organic. Integrity is everything!
 
-Then we can have it augmented with various tools that we find useful as a community. 
-It can become a weekly goal to update the ecosystem with one useful thing (in line with the weekly goals we discussed on spaces).
+We work on things together as a community - including this site you're reading now.
 
+We have a lot of projects in progress, here is a small selection:
 
+- Our Solana NFT Keyi Beginnings [https://truffle.wtf/project/keyi-beginnings](https://truffle.wtf/project/keyi-beginnings)
+- Our workout check-in social hub [exercise.cafe](exercise.cafe)
+- Our weekly Cake Keyi Call (hosted on our [Twitter](https://x.com/keyixyz) for now)
 
-
-Plan moving forward: Add or update 1 element per week
-
-~~"Then we can have it augmented with various tools that we find useful as a community. 
-It can become a weekly goal to update the ecosystem with one useful thing (in line with the weekly goals we discussed on spaces)."
+Don't be shy! Join the group chat and tell us what dreams you're working on lately :)
