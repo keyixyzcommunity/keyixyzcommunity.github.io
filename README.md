@@ -1,15 +1,14 @@
 ![banner-keyi](https://github.com/user-attachments/assets/334b45cf-0499-4490-9639-5e17de2ff4f7)
 
+# KEYI 🉑 Constructive Community
+
 🉑   Main group chat on Telegram [t.me/keyixyz](t.me/keyixyz)   🉑
 
 🉑   Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)   🉑
 
 🉑   Contract Address for $KEYI token on [pump.fun](https://pump.fun/9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump)   🉑   9oQsNyT1vgNSqxfkec3FjNnQdHZpcvT5dHsZtdarpump   🉑
 
-
-# KEYI 🉑 Constructive Community
-
-### Join us and we can work towards our dreams together! 
+## Join us and we can work towards our dreams together! 
 
 Fulfilling dreams requires honesty about your dreams, and working towards them. We like granting wishes, and we support each other. 
 
