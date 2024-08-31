@@ -21,3 +21,6 @@ We have a lot of projects in progress, here is a small selection:
 - Our weekly Cake Keyi Call (hosted on our [Twitter account @keyixyz](https://x.com/keyixyz) for now)
 
 Don't be shy! Join the group chat and tell us what dreams you're working on lately :)
+
+
+![keyibeginnings](https://github.com/user-attachments/assets/082b12eb-86e4-4ed8-869c-7ada283bee58)
