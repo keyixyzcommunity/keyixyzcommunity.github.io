@@ -33,7 +33,9 @@ We have a lot of projects in progress, here is a small selection:
 - Our workout check-in social hub [exercise.cafe](https://exercise.cafe/public/local) (Notice how quiet it is? No distractions, just new personal bests for you!)
 
 
-Don't be shy! Join the [group chat](t.me/keyixyz) and tell us what dreams you're working on lately :)
+Don't be shy! 
+
+Join the [group chat](t.me/keyixyz) and tell us what dreams you're working on lately :)
 
 
 ![photo_2024-08-31_03-21-24](https://github.com/user-attachments/assets/dfb1624d-beb5-4eff-922d-089455a02bcb)
