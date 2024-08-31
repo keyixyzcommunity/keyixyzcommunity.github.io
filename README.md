@@ -1,4 +1,4 @@
-Banner, ![banner-keyi](https://github.com/user-attachments/assets/334b45cf-0499-4490-9639-5e17de2ff4f7)
+![banner-keyi](https://github.com/user-attachments/assets/334b45cf-0499-4490-9639-5e17de2ff4f7)
 
 Main group chat on Telegram [t.me/keyixyz](t.me/keyixyz)
 
