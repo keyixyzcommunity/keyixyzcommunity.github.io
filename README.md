@@ -20,7 +20,8 @@ A counter-culture to the toxic wasteland of scams, KEYI stands for integrity. Wh
 
 We don't do paid marketing, nor shilling, nor any manipulative jank - our community is 100% organic. Integrity is everything!
 
-We work on things together as a community - including this site you're reading now. <a href="https://github.com/keyixyzcommunity/keyixyzcommunity.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+We work on things together as a community - including this site you're reading now. 
+<div class="container"><section id="github_link"><section id="downloads"><a href="https://github.com/keyixyzcommunity/keyixyzcommunity.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a></section></section></div>
 
 
 ![keyibeginnings](https://github.com/user-attachments/assets/082b12eb-86e4-4ed8-869c-7ada283bee58)
