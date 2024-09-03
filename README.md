@@ -31,7 +31,7 @@ We have a lot of projects in progress, here is a small selection:
 - Our Solana NFT Keyi Beginnings [https://truffle.wtf/project/keyi-beginnings](https://truffle.wtf/project/keyi-beginnings)
 - Our weekly Cake Keyi Call (hosted on our [Twitter account @keyixyz](https://x.com/keyixyz) for now)
 - Our workout check-in social hub [exercise.cafe](https://exercise.cafe/public/local) (Notice how quiet it is? No distractions, just new personal bests for you!)
-- Our membership subdomains! For one-and-one-million $KEYI (1000001 tokens) donated to the treasury at treasury.keyi.sol , you'll get yourname.keyi.sol and you'll have a say in how we deploy our treasury funds. [keyi.sol at sns.id](https://www.sns.id/domain?domain=keyi)
+- Our membership subdomains! For one-and-one-million $KEYI (1000001 tokens) donated to the treasury ( treasury.keyi.sol ), you'll get yourname.keyi.sol , and as part of the inner circle you'll have a say in how we deploy our treasury funds. [keyi.sol at sns.id](https://www.sns.id/domain?domain=keyi)
 
 
 
