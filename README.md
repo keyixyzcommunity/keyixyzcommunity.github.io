@@ -2,7 +2,7 @@
 
 # KEYI 🉑 Constructive Community
 
-🉑   Main group chat on Telegram [t.me/keyixyz](https://t.me/keyixyz)   🉑
+## 🉑   Main group chat on Telegram [t.me/keyixyz](https://t.me/keyixyz)   🉑
 
 🉑   Community controlled Twitter [https://x.com/keyixyz](https://x.com/keyixyz)   🉑
 
